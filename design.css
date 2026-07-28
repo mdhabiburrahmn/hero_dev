@@ -63,3 +63,13 @@ nav .menu-design a{
     color: #474747;
     text-decoration: none;
 }
+
+/* Banner Section Designs */
+
+#banner{
+    border: 1px solid red;
+    margin: 47px 38px 0px 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
