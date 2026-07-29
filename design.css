@@ -154,3 +154,18 @@ nav .menu-design a{
 .about-info .card-info h4{
     font-size: 16px;
 }
+
+/* Skills Sections Designs */
+
+#skills{
+    padding-top: 130px;
+    border: 1px solid greenyellow;
+}
+
+#skills .skill-container{
+    border: 1px solid red;
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
