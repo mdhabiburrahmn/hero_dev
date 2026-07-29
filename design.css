@@ -106,3 +106,14 @@ nav .menu-design a{
     color: #757575;
     line-height: 30px;
 }
+
+/* About Me Section Designs */
+
+#about{
+    padding: 131px ;
+}
+
+#about .about-container{
+    width: 71%;
+    max-width: 1140px;
+}
