@@ -322,3 +322,20 @@ footer .footer-container{
     text-decoration: none;
 }
 
+.footer-container form input[type="text"]{
+    color: #757575;
+    width: 461px;
+    padding: 18px 31px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
+
+.footer-container form textarea{
+    color: #757575;
+    width: 461px;
+    padding: 18px 31px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
