@@ -193,3 +193,20 @@ nav .menu-design a{
     color: #757575;
     line-height: 28px;
 }
+
+/* Resume Section Design */
+
+#resume{
+    padding-top: 130px;
+}
+
+#resume .resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+
+#resume .resume-container .resume-info{
+    display: flex;
+}
