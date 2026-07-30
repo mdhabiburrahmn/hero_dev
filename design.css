@@ -276,3 +276,10 @@ nav .menu-design a{
     font-size: 16px;
     color: #757575;
 }
+
+/* Resume Button Design */
+
+.resume-btn{
+    text-align: center;
+    margin-top: 50px;
+}
