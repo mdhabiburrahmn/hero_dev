@@ -209,4 +209,37 @@ nav .menu-design a{
 
 #resume .resume-container .resume-info{
     display: flex;
+    margin-top: 113px;
+    gap: 24px;
+}
+
+.resume-info .education-info h3{
+    color: #474747;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.resume-info .education-info .edu-card{
+    margin-top: 30px;
+    width: 511px;
+    padding: 0px 0px 30px 0px;
+}
+
+.education-info .edu-card h4{
+    font-size: 20px;
+    font-weight: bold;
+    color: #474747;
+}
+
+.education-info .edu-card h5{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #757575;
+}
+
+.education-info .edu-card p{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #757575;
 }
